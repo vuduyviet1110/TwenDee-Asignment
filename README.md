@@ -10,4 +10,5 @@ Instruction on how to run the implementation locally:
 
 Link demo: twen-dee-asignment.vercel.app
 
-Video explaination on code: https://www.loom.com/share/b5b8eb9f13744b3aa42d5346347d08b7?sid=df7cf203-f17d-4fdf-b3cf-47d9bb0223a7
+Video explaination on code:
+https://www.loom.com/share/487c2b13b1ed482a8be7bcca8fbac9fe?sid=135d8f13-efbe-465b-9b9a-b78698ec2993
